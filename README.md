@@ -2,8 +2,7 @@
 
 > Pipeline clínico de exoma (WES) automatizado — do FASTQ ao relatório priorizado —
 > com validação contra padrão-ouro (GIAB/NA12878) e priorização voltada ao TEA.
->
-> _(edite esta descrição como preferir)_
+
 
 **Autor:** Ayron Luigi de Paiva · PPGBIOTEC/UFOP
 **Contato / perfil:** [github.com/ImAyron](https://github.com/ImAyron)
